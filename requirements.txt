@@ -1,0 +1,7 @@
+* Python
+* Qiskit
+* Streamlit
+* NumPy
+* Pandas
+* Matplotlib
+* yFinance
